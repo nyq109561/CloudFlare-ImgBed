@@ -1,0 +1,4 @@
+ ```toml
+   name = "cloudflare-imgbed"
+   pages_build_output_dir = "./frontend-dist"
+   ```
